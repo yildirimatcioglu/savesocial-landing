@@ -11,7 +11,7 @@ presskit_download_link                    :                                     
                                                                                       # Or upload your press kit file to assets and set path accordingly (e.g. "assets/your_press_kit.zip").
 
 app_icon                                  : assets/appicon.png                      # Automatically populates if not set and if iOS app ID is set.  Otherwise enter path to icon file manually.
-app_name                                  : SaveSocial                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
+app_name                                  : TikSave: Save and Repost Videos                                          # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_price                                 :                                           # Automatically populates if not set and if iOS app ID is set.  Otherwise enter manually.
 app_description                           : Video Saver App for TikTok.
 
@@ -21,7 +21,7 @@ enable_smart_app_banner                   : true                                
 
 # Information About Yourself
 your_name                                 : Yildirimhan Atcioglu
-your_link                                 : https://emilbaehr.com                     
+your_link                                 :                      
 your_city                                 : Amsterdam                                
 email_address                             : yildirim.atcioglu@icloud.com
 facebook_username                         :                                           
